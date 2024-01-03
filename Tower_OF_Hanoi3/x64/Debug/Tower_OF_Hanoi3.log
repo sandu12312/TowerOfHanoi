@@ -1,0 +1,5 @@
+﻿  Display_Disk.cpp
+C:\Users\Catalin\source\repos\Tower_OF_Hanoi3\Tower_OF_Hanoi3\Display_Disk.cpp(50,12): warning C4101: 'j': unreferenced local variable
+  Tower_OF_Hanoi3.cpp
+  Generating Code...
+  Tower_OF_Hanoi3.vcxproj -> C:\Users\Catalin\source\repos\Tower_OF_Hanoi3\x64\Debug\Tower_OF_Hanoi3.exe
